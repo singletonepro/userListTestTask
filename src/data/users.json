@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "description": "A software engineer with 5 years of experience.",
+        "role": "Software Engineer",
+        "email": "john.doe@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "description": "A front-end developer passionate about accessibility.",
+        "role": "Frontend Developer",
+        "email": "jane.smith@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Jane",
+        "status": "busy"
+    },
+    {
+        "id": 3,
+        "name": "Serhii Bog",
+        "description": "A full-stack developer with expertise in React and Node.js",
+        "role": "Full-stack Developer",
+        "email": "serhii.bog@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Serhii",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "Maria Garcia",
+        "description": "UI/UX designer creating beautiful and intuitive interfaces",
+        "role": "UI/UX Designer",
+        "email": "maria.garcia@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Maria",
+        "status": "busy"
+    },
+    {
+        "id": 5,
+        "name": "Alex Chen",
+        "description": "DevOps engineer specializing in cloud infrastructure",
+        "role": "DevOps Engineer",
+        "email": "alex.chen@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "name": "Emma Wilson",
+        "description": "Data scientist with expertise in machine learning",
+        "role": "Data Scientist",
+        "email": "emma.wilson@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+        "status": "busy"
+    },
+    {
+        "id": 7,
+        "name": "Michael Brown",
+        "description": "Mobile app developer focusing on iOS development",
+        "role": "iOS Developer",
+        "email": "michael.brown@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Michael",
+        "status": "active"
+    },
+    {
+        "id": 8,
+        "name": "Sophie Martin",
+        "description": "QA engineer ensuring software quality and reliability",
+        "role": "QA Engineer",
+        "email": "sophie.martin@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sophie",
+        "status": "active"
+    },
+    {
+        "id": 9,
+        "name": "David Kim",
+        "description": "Backend developer specializing in Python and Django",
+        "role": "Backend Developer",
+        "email": "david.kim@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=David",
+        "status": "busy"
+    },
+    {
+        "id": 10,
+        "name": "Anna Kowalski",
+        "description": "Product manager with strong technical background",
+        "role": "Product Manager",
+        "email": "anna.kowalski@example.com",
+        "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Anna",
+        "status": "active"
+    }
+]
